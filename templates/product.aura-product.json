@@ -1,47 +1,5 @@
 {
   "sections": {
-    "rich_text_nTHhaK": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_L9JW4K": {
-          "type": "heading",
-          "settings": {
-            "heading": "FOO IS BAR",
-            "heading_size": "h1"
-          }
-        },
-        "text_3GaJtd": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "button_pM8BfN": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_L9JW4K",
-        "text_3GaJtd",
-        "button_pM8BfN"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -174,8 +132,8 @@
         "enable_sticky_info": true,
         "color_scheme": "",
         "media_size": "large",
-        "constrain_to_viewport": false,
-        "media_fit": "cover",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
         "gallery_layout": "stacked",
         "media_position": "left",
         "image_zoom": "lightbox",
@@ -188,7 +146,6 @@
     }
   },
   "order": [
-    "rich_text_nTHhaK",
     "related-products",
     "main"
   ]
