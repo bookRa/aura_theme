@@ -200,11 +200,11 @@
     }
   },
   "order": [
+    "video",
     "image_banner",
     "rich_text",
     "featured_collection",
     "collage",
-    "multicolumn",
-    "video"
+    "multicolumn"
   ]
 }
