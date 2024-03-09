@@ -972,6 +972,8 @@ class VariantSelects extends HTMLElement {
       this.toggleAddButton(true, '', true);
       this.setUnavailable();
     } else {
+      console.log("Variant is available");
+      console.log(this.currentVariant);
       this.updateMedia();
       this.updateURL();
       this.updateVariantInput();
