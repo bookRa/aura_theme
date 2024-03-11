@@ -984,7 +984,20 @@ class VariantSelects extends HTMLElement {
   }
 
   filterVariantImages() {
-    console.log("Thumbnail Updated", this.currentVariant);
+    if (this.currentVariant.featured_media && this.currentVariant.featured_media.alt) {
+      // Only show thumbnails for the selected color
+      const validVariants = this.currentVariant.featured_media.alt.split('||')[1].split(',') || [];
+      console.log("Valid Variants", validVariants);
+      document.querySelectorAll('[thumbnail_variant_alt]').filter((thumbnail) => {
+        tnAlt = thumbnail.getAttribute('thumbnail_variant_alt');
+        console.log("Thumbnail Alt", tnAlt);
+        return validVariants.any(vv => tnAlt.includes(vv))
+      }).forEach((thumbnail) => thumbnail.style.display = 'block');
+    } else {
+      // Show all thumbnails
+      document.querySelectorAll('[thumbnail_variant_alt]').forEach((thumbnail) => thumbnail.style.display = 'block');
+
+    }
 
   }
 
