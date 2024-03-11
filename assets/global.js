@@ -967,6 +967,7 @@ class VariantSelects extends HTMLElement {
     this.updatePickupAvailability();
     this.removeErrorMessage();
     this.updateVariantStatuses();
+    this.filterVariantImages();
 
     if (!this.currentVariant) {
       this.toggleAddButton(true, '', true);
@@ -975,8 +976,6 @@ class VariantSelects extends HTMLElement {
       console.log("Variant is available");
       console.log(this.currentVariant);
       this.updateMedia();
-      this.filterVariantImages();
-
       this.updateURL();
       this.updateVariantInput();
       this.renderProductInfo();
