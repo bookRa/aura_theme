@@ -988,11 +988,11 @@ class VariantSelects extends HTMLElement {
       // Only show thumbnails for the selected color
       const validVariants = this.currentVariant.featured_media.alt.split('||')[1].split(',') || [];
       console.log("Valid Variants", validVariants);
-      document.querySelectorAll('[thumbnail_variant_alt]').filter((thumbnail) => {
+      document.querySelectorAll('[thumbnail_variant_alt]').forEach((thumbnail) => {
         tnAlt = thumbnail.getAttribute('thumbnail_variant_alt');
         console.log("Thumbnail Alt", tnAlt);
-        return validVariants.any(vv => tnAlt.includes(vv))
-      }).forEach((thumbnail) => thumbnail.style.display = 'block');
+        if (validVariants.any(vv => tnAlt.includes(vv))) thumbnail.style.display = 'block';
+      })
     } else {
       // Show all thumbnails
       document.querySelectorAll('[thumbnail_variant_alt]').forEach((thumbnail) => thumbnail.style.display = 'block');
