@@ -991,7 +991,7 @@ class VariantSelects extends HTMLElement {
       document.querySelectorAll('[thumbnail_variant_alt]').forEach((thumbnail) => {
         const tnAlt = thumbnail.getAttribute('thumbnail_variant_alt');
         console.log("Thumbnail Alt", tnAlt);
-        if (validVariants.any(vv => tnAlt.includes(vv))) thumbnail.style.display = 'block';
+        if (validVariants.some(vv => tnAlt.includes(vv))) thumbnail.style.display = 'block';
       })
     } else {
       // Show all thumbnails
