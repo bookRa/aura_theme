@@ -984,7 +984,7 @@ class VariantSelects extends HTMLElement {
   }
 
   filterVariantImages() {
-    if (this.currentVariant.featured_media && this.currentVariant.featured_media.alt) {
+    if (this.currentVariant.featured_image && this.currentVariant.featured_image.alt) {
       // Only show thumbnails for the selected color
       const validVariants = this.currentVariant.featured_media.alt.split('||')[1].split(',').map((v) => v.trim());
       console.log("Valid Variants", validVariants);
