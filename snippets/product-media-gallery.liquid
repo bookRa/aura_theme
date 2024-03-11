@@ -118,6 +118,8 @@
             {%-  unless is_image_for_variant -%}
               style="display: none;"
             {%- endunless -%}
+            thumbnail_variant_alt="{{ img_alt_variants }}"
+            valid_variant_alts = "{{ valid_variants }}"
           >
             {%- liquid
               assign media_position = media_position | default: 0 | plus: 1
