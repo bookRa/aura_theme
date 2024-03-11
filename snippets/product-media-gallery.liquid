@@ -117,7 +117,7 @@
             endif
           -%}
           <script>
-            console.log({{img_alt_variants}})
+            console.log({{img_alt_variants || t}})
           </script>
           <li
             id="Slide-{{ section.id }}-{{ media.id }}{{ id_append }}"
