@@ -80,7 +80,8 @@
           data-media-id="{{ section.id }}-{{ featured_media.id }}"
         >
           {%- assign media_position = 1 -%}
-          {% render 'product-thumbnail',
+          {%
+            render 'product-thumbnail',
             media: featured_media,
             media_count: media_count,
             position: media_position,
@@ -93,6 +94,7 @@
             media_fit: section.settings.media_fit,
             constrain_to_viewport: section.settings.constrain_to_viewport,
             lazy_load: false
+            thumbnail_variant_alt="{{ valid_variants }}"
           %}
         </li>
       {%- endif -%}
@@ -123,7 +125,6 @@
               style="display: none;"
             {%- endunless -%}
             thumbnail_variant_alt="{{ img_alt_variants }}"
-            valid_variant_alts="{{ valid_variants }}"
           >
             {%- liquid
               assign media_position = media_position | default: 0 | plus: 1
