@@ -987,11 +987,11 @@ class VariantSelects extends HTMLElement {
     if (this.currentVariant.featured_image && this.currentVariant.featured_image.alt) {
       // Only show thumbnails for the selected color
       const validVariants = this.currentVariant.featured_media.alt.split('||')[1].split(',').map((v) => v.trim());
-      console.log("Valid Variants", validVariants);
+      // console.log("Valid Variants", validVariants);
       document.querySelectorAll('[thumbnail_variant_alt]').forEach((thumbnail) => {
         const tnAlt = thumbnail.getAttribute('thumbnail_variant_alt');
         if (validVariants.some(vv => tnAlt.includes(vv))) {
-          console.log("Thumbnail", thumbnail);
+          // console.log("Thumbnail", thumbnail);
           thumbnail.style.display = 'block';
         }
         else { thumbnail.style.display = 'none'; }
