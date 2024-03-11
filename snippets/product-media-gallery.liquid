@@ -107,9 +107,9 @@
               assign img_alt_variants = '' | split: ''
             endif
             assign is_image_for_variant = false
+            echo img_alt_variants
             for variant_tag in img_alt_variants
               if valid_variants contains variant_tag
-                echo variant_tag
                 assign is_image_for_variant = true
               endif
             endfor
