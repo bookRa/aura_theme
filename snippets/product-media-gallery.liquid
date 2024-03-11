@@ -102,13 +102,15 @@
           {%- liquid
             assign image_alt = media.alt | split: ' || '
             if image_alt.size > 1
-              assign img_alt_variants = image_alt[1] | split: ','
+              assign img_alt_variants = image_alt[1] | split: ',' | map:
             else
               assign img_alt_variants = '' | split: ''
             endif
             assign is_image_for_variant = false
-            for variant_tag in img_alt_variants
-              for valid_tag in valid_variants
+            for possible in img_alt_variants
+              assign variant_tag = possible | strip
+              for valid in valid_variants
+                assign valid_tag = valid | strip
                 echo 'Looking at tag (' | append: variant_tag | append: ') '
                 echo 'Comparing with Valid Variant (' | append: valid_tag | append: ') '
                 if variant_tag == valid_tag
