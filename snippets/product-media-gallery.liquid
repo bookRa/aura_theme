@@ -109,10 +109,12 @@
             assign is_image_for_variant = false
             for variant_tag in img_alt_variants
              echo ' looking at tag ' | append: variant_tag | append: ' '
-             echo 'For Variants ' | append: valid_variants
+             echo 'For Variants ' | append: valid_variants | append: '\n'
               if valid_variants contains variant_tag
                echo 'tag matches!'
                 assign is_image_for_variant = true
+             else
+               echo 'NOPE! \n'
               endif
             endfor
            echo is_image_for_variant
