@@ -111,13 +111,8 @@
               assign variant_tag = possible | strip
               for valid in valid_variants
                 assign valid_tag = valid | strip
-                echo 'Looking at tag (' | append: variant_tag | append: ') '
-                echo 'Comparing with Valid Variant (' | append: valid_tag | append: ') '
                 if variant_tag == valid_tag
-                  echo 'tag matches!'
                   assign is_image_for_variant = true
-                else
-                  echo 'NOPE!'
                 endif
               endfor
             endfor
