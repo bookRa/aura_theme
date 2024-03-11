@@ -71,8 +71,6 @@
         -%}
         {%- if selected_variant_alt.size > 1 -%}
           {%- assign valid_variants = selected_variant_alt[1] | split: ',' -%}
-        {%- else -%}
-          {%- assign valid_variants = [] -%}
         {%- endif -%}
         <li
           id="Slide-{{ section.id }}-{{ featured_media.id }}{{ id_append }}"
