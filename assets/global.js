@@ -990,7 +990,7 @@ class VariantSelects extends HTMLElement {
       // console.log("Valid Variants", validVariants);
       document.querySelectorAll('[thumbnail_variant_alt]').forEach((thumbnail) => {
         const tnAlt = thumbnail.getAttribute('thumbnail_variant_alt');
-        if (validVariants.some(vv => tnAlt.includes(vv))) {
+        if (validVariants.some(vv => tnAlt.includes(vv)) || tnAlt == '') {
           // console.log("Thumbnail", thumbnail);
           thumbnail.style.display = 'block';
         }
