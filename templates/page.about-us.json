@@ -82,7 +82,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/calypso_2.jpg",
-        "height": "medium",
+        "height": "large",
         "desktop_image_width": "large",
         "layout": "image_first",
         "desktop_content_position": "middle",
@@ -182,6 +182,67 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "collapsible_content_ggyyie": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_wHRX7G": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "<p><strong>hello world<\/strong><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_fWaxMV": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_WrcHcz": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_mbYEHB": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_wHRX7G",
+        "collapsible_row_fWaxMV",
+        "collapsible_row_WrcHcz",
+        "collapsible_row_mbYEHB"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -191,6 +252,7 @@
     "image_with_text_8TbPxz",
     "image_banner_JWncXe",
     "image_banner_YT3CqN",
-    "main"
+    "main",
+    "collapsible_content_ggyyie"
   ]
 }
