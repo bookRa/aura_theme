@@ -150,7 +150,7 @@
           "settings": {
             "button_label_1": "Connect with me on IG!",
             "button_link_1": "{{ page.url }}",
-            "button_style_secondary_1": true,
+            "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": true
@@ -169,7 +169,7 @@
         "show_text_box": true,
         "desktop_content_alignment": "left",
         "color_scheme": "scheme-1",
-        "image_behavior": "zoom-in",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
