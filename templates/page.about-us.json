@@ -52,7 +52,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/description_image_0a5144_1ef7a414b88b4ba1bfde007c8ff19297_mv2_d_3024_3780_s_4_2.webp",
-        "height": "small",
+        "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
@@ -126,14 +126,6 @@
         "padding_bottom": 12
       }
     },
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-        "padding_top": 28,
-        "padding_bottom": 28
-      }
-    },
     "image_banner_JWncXe": {
       "type": "image-banner",
       "settings": {
@@ -143,11 +135,51 @@
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "scheme-3",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
+      }
+    },
+    "image_banner_YT3CqN": {
+      "type": "image-banner",
+      "blocks": {
+        "buttons_KfmgAy": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Connect with me on IG!",
+            "button_link_1": "",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "buttons_KfmgAy"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0468.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
       }
     }
   },
@@ -156,7 +188,8 @@
     "image_with_text_LnbKQW",
     "image_with_text_xHQQcz",
     "image_with_text_8TbPxz",
-    "main",
-    "image_banner_JWncXe"
+    "image_banner_JWncXe",
+    "image_banner_YT3CqN",
+    "main"
   ]
 }
