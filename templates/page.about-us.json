@@ -25,14 +25,14 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/description_image_0a5144_85b9749a1b1b4a1e934479064ca22f0b_mv2_d_8503_3999_s_4_2.webp",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "large",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "",
-        "image_behavior": "none",
+        "image_behavior": "fixed",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
+        "stack_images_on_mobile": false,
         "show_text_below": true
       }
     },
@@ -54,16 +54,16 @@
         "image": "shopify:\/\/shop_images\/description_image_0a5144_1ef7a414b88b4ba1bfde007c8ff19297_mv2_d_3024_3780_s_4_2.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
         "section_color_scheme": "",
         "color_scheme": "",
-        "image_behavior": "none",
+        "image_behavior": "ambient",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 8,
+        "padding_bottom": 8
       }
     },
     "image_with_text_xHQQcz": {
@@ -81,16 +81,16 @@
         "text_n8F6Ny"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/f918561f-21a3-4579-98e5-32b8b4dd1b9e_1770x_71894838-3cfd-40a4-9fe2-b6009dfa82ed.webp",
+        "image": "shopify:\/\/shop_images\/calypso_2.jpg",
         "height": "large",
         "desktop_image_width": "small",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
         "section_color_scheme": "",
         "color_scheme": "",
-        "image_behavior": "none",
+        "image_behavior": "ambient",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -102,7 +102,7 @@
         "text_ndhxwW": {
           "type": "text",
           "settings": {
-            "text": "<p>{{ page.metafields.custom.body | metafield_tag }}<\/p>",
+            "text": "<p>{{ page.metafields.custom.outro | metafield_tag }}<\/p>",
             "text_style": "body"
           }
         }
@@ -115,15 +115,15 @@
         "height": "large",
         "desktop_image_width": "small",
         "layout": "text_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "bottom",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
         "section_color_scheme": "",
         "color_scheme": "",
-        "image_behavior": "none",
+        "image_behavior": "ambient",
         "mobile_content_alignment": "left",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 12
       }
     },
     "main": {
@@ -134,46 +134,20 @@
         "padding_bottom": 28
       }
     },
-    "rich_text_Hkdb7p": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_KHFVcq": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
-        "text_mg6mrX": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "button_je8BEx": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_KHFVcq",
-        "text_mg6mrX",
-        "button_je8BEx"
-      ],
+    "image_banner_JWncXe": {
+      "type": "image-banner",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "image": "shopify:\/\/shop_images\/signature.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     }
   },
@@ -183,6 +157,6 @@
     "image_with_text_xHQQcz",
     "image_with_text_8TbPxz",
     "main",
-    "rich_text_Hkdb7p"
+    "image_banner_JWncXe"
   ]
 }
