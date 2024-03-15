@@ -143,9 +143,9 @@
       "scheme-2": {
         "settings": {
           "background": "#ebe6e8",
-          "background_gradient": "",
+          "background_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
           "text": "#4f4f4f",
-          "button": "#ff6b6b",
+          "button": "#de6c45",
           "button_label": "#f9f9f9",
           "secondary_button_label": "#7ed4ff",
           "shadow": "#100c07"
