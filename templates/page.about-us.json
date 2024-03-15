@@ -149,8 +149,8 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Connect with me on IG!",
-            "button_link_1": "{{ page.url }}",
-            "button_style_secondary_1": false,
+            "button_link_1": "https:\/\/www.instagram.com\/fatma.sharmy\/",
+            "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": true
@@ -165,8 +165,8 @@
         "image_2": "shopify:\/\/shop_images\/0b4b6b40-dbb7-4d35-983f-f19bff5d4e0e.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "desktop_content_position": "top-center",
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-2",
         "image_behavior": "none",
@@ -182,47 +182,6 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
-    },
-    "collapsible_content_ggyyie": {
-      "type": "collapsible-content",
-      "blocks": {
-        "collapsible_row_wHRX7G": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "<p><strong>hello world<\/strong><\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_mbYEHB": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "What's this",
-            "icon": "dairy_free",
-            "row_content": "<p>IDK<\/p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_wHRX7G",
-        "collapsible_row_mbYEHB"
-      ],
-      "settings": {
-        "caption": "foo",
-        "heading": "Collapsible content",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "row",
-        "color_scheme": "scheme-1",
-        "container_color_scheme": "scheme-2",
-        "open_first_collapsible_row": true,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -232,7 +191,6 @@
     "image_with_text_8TbPxz",
     "image_banner_JWncXe",
     "image_banner_YT3CqN",
-    "main",
-    "collapsible_content_ggyyie"
+    "main"
   ]
 }
