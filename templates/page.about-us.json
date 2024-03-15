@@ -1,5 +1,41 @@
 {
   "sections": {
+    "image_banner_zEpTfJ": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_JqmBmg": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ page.title }}",
+            "heading_size": "h1"
+          }
+        },
+        "text_XBnXig": {
+          "type": "text",
+          "settings": {
+            "text": "By Fatma Sharmy",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_JqmBmg",
+        "text_XBnXig"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/description_image_0a5144_85b9749a1b1b4a1e934479064ca22f0b_mv2_d_8503_3999_s_4_2.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -9,6 +45,7 @@
     }
   },
   "order": [
+    "image_banner_zEpTfJ",
     "main"
   ]
 }
