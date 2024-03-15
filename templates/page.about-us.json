@@ -195,38 +195,18 @@
             "page": ""
           }
         },
-        "collapsible_row_fWaxMV": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "collapsible_row_WrcHcz": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
         "collapsible_row_mbYEHB": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "What's this",
+            "icon": "dairy_free",
+            "row_content": "<p>IDK<\/p>",
             "page": ""
           }
         }
       },
       "block_order": [
         "collapsible_row_wHRX7G",
-        "collapsible_row_fWaxMV",
-        "collapsible_row_WrcHcz",
         "collapsible_row_mbYEHB"
       ],
       "settings": {
