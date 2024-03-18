@@ -117,7 +117,7 @@
       "main-password-header": {
         "type": "main-password-header",
         "settings": {
-          "color_scheme": "scheme-1"
+          "color_scheme": "scheme-5"
         }
       },
       "main-password-footer": {
@@ -177,12 +177,12 @@
       },
       "scheme-5": {
         "settings": {
-          "background": "#334fb4",
+          "background": "#ebe6e8",
           "background_gradient": "linear-gradient(276deg, rgba(246, 194, 139, 1), rgba(207, 146, 245, 0.19) 49.281%, rgba(165, 218, 200, 1) 100%)",
-          "text": "#ffffff",
-          "button": "#ffffff",
-          "button_label": "#334fb4",
-          "secondary_button_label": "#ffffff",
+          "text": "#4f4f4f",
+          "button": "#ebe6e8",
+          "button_label": "#4f4f4f",
+          "secondary_button_label": "#4f4f4f",
           "shadow": "#121212"
         }
       },
