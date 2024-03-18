@@ -178,7 +178,7 @@
       "scheme-5": {
         "settings": {
           "background": "#334fb4",
-          "background_gradient": "",
+          "background_gradient": "linear-gradient(276deg, rgba(246, 194, 139, 1), rgba(207, 146, 245, 0.19) 49.281%, rgba(165, 218, 200, 1) 100%)",
           "text": "#ffffff",
           "button": "#ffffff",
           "button_label": "#334fb4",
