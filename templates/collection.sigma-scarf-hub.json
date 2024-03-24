@@ -8,6 +8,148 @@
         "color_scheme": "scheme-1"
       }
     },
+    "featured_product_yYXc6G": {
+      "type": "featured-product",
+      "blocks": {
+        "text_yiEpwU": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_9fmGnz": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_ELm4Ua": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_Fyb8MY": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_iaQgRe": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_kKwmj9": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_33FDEF": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_yiEpwU",
+        "title_9fmGnz",
+        "price_ELm4Ua",
+        "variant_picker_Fyb8MY",
+        "quantity_selector_iaQgRe",
+        "buy_buttons_kKwmj9",
+        "share_33FDEF"
+      ],
+      "settings": {
+        "product": "broderie-1",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": false,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_9HLcX8": {
+      "type": "featured-product",
+      "blocks": {
+        "text_GX7DCt": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_jzeKUC": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_TEyEnj": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_KCYw9J": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_BBqzg6": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_Ayf3tR": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_eLAPEp": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_GX7DCt",
+        "title_jzeKUC",
+        "price_TEyEnj",
+        "variant_picker_KCYw9J",
+        "quantity_selector_BBqzg6",
+        "buy_buttons_Ayf3tR",
+        "share_eLAPEp"
+      ],
+      "settings": {
+        "product": "droplets",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collection_list_meQp77": {
       "type": "collection-list",
       "blocks": {
@@ -112,6 +254,7 @@
         "featured_collection_XbPVyz",
         "featured_collection_Rckag4"
       ],
+      "disabled": true,
       "settings": {
         "title": "Shop our Inspired Collections and Limited Editions",
         "heading_size": "h1",
@@ -249,7 +392,7 @@
         "collection_YWkHwV"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "",
         "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "column",
@@ -300,6 +443,8 @@
   },
   "order": [
     "banner",
+    "featured_product_yYXc6G",
+    "featured_product_9HLcX8",
     "collection_list_meQp77",
     "product-grid",
     "collage_RfDLqE",
