@@ -43,12 +43,24 @@
             "button_label": "Get Yours",
             "button_link": "shopify:\/\/products\/madeline"
           }
+        },
+        "row_XpBqyE": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/camille.jpg",
+            "caption": "Camille",
+            "heading": "Effortless Savoir Faire",
+            "text": "",
+            "button_label": "Say No More",
+            "button_link": "shopify:\/\/products\/camille"
+          }
         }
       },
       "block_order": [
         "row_zfzKdV",
         "row_Lx7agz",
-        "row_UzMdyn"
+        "row_UzMdyn",
+        "row_XpBqyE"
       ],
       "settings": {
         "image_height": "small",
