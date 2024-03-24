@@ -258,6 +258,44 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "collage_ygc4AR": {
+      "type": "collage",
+      "blocks": {
+        "collection_DGqkP3": {
+          "type": "collection",
+          "settings": {
+            "collection": "parisian-squared-scarf-collection"
+          }
+        },
+        "collection_7Kr9gN": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-lace-garment-retro-scarf-set"
+          }
+        },
+        "collection_RA9itJ": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-lace-garment-scarf-tasty-edition"
+          }
+        }
+      },
+      "block_order": [
+        "collection_DGqkP3",
+        "collection_7Kr9gN",
+        "collection_RA9itJ"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -266,6 +304,7 @@
     "product-grid",
     "collage_RfDLqE",
     "collage_zccfb6",
-    "collage_pW9n9V"
+    "collage_pW9n9V",
+    "collage_ygc4AR"
   ]
 }
