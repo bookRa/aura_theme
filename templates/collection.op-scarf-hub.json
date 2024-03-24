@@ -1,5 +1,122 @@
 {
   "sections": {
+    "collection_list_meQp77": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_wTU4tp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "arabic-inspired-modest-scarf-collection-by-the-lace-garment"
+          }
+        },
+        "featured_collection_YfxVJU": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-lace-garment-family-scarf-set"
+          }
+        },
+        "featured_collection_LAt4FB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-lace-garment-scarf-mideast-collection"
+          }
+        },
+        "featured_collection_iacGUU": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-lace-garment-scarf-tasty-edition"
+          }
+        },
+        "featured_collection_JzYDJE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-lace-garment-retro-scarf-set"
+          }
+        },
+        "featured_collection_ELxkEi": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "parisian-squared-scarf-collection"
+          }
+        },
+        "featured_collection_QyrYrT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-lace-garment-scarf-international-edition"
+          }
+        },
+        "featured_collection_yXxGxY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-lace-garment-inspired-scarf-set"
+          }
+        },
+        "featured_collection_DkPpd7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-lace-garment-scarf-funk-edition"
+          }
+        },
+        "featured_collection_mDBPR3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-lace-garment-scarf-elevated-edition"
+          }
+        },
+        "featured_collection_TcgHdD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tlg-scarf-definitive-edition"
+          }
+        },
+        "featured_collection_tV3qKM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-lace-garment-scarf-bold-edition"
+          }
+        },
+        "featured_collection_XbPVyz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-lace-garment-supports-palestine"
+          }
+        },
+        "featured_collection_Rckag4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-lace-garment-scarf-collaborations"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_wTU4tp",
+        "featured_collection_YfxVJU",
+        "featured_collection_LAt4FB",
+        "featured_collection_iacGUU",
+        "featured_collection_JzYDJE",
+        "featured_collection_ELxkEi",
+        "featured_collection_QyrYrT",
+        "featured_collection_yXxGxY",
+        "featured_collection_DkPpd7",
+        "featured_collection_mDBPR3",
+        "featured_collection_TcgHdD",
+        "featured_collection_tV3qKM",
+        "featured_collection_XbPVyz",
+        "featured_collection_Rckag4"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection_8UeYye": {
       "type": "featured-collection",
       "settings": {
@@ -114,6 +231,7 @@
     }
   },
   "order": [
+    "collection_list_meQp77",
     "featured_collection_8UeYye",
     "featured_collection_LXfEcA",
     "featured_collection_LBixUV",
