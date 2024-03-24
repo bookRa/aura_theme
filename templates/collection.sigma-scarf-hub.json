@@ -1,0 +1,310 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-1"
+      }
+    },
+    "collection_list_meQp77": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_wTU4tp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "arabic-inspired-modest-scarf-collection-by-the-lace-garment"
+          }
+        },
+        "featured_collection_YfxVJU": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-lace-garment-family-scarf-set"
+          }
+        },
+        "featured_collection_LAt4FB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-lace-garment-scarf-mideast-collection"
+          }
+        },
+        "featured_collection_iacGUU": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-lace-garment-scarf-tasty-edition"
+          }
+        },
+        "featured_collection_JzYDJE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-lace-garment-retro-scarf-set"
+          }
+        },
+        "featured_collection_ELxkEi": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "parisian-squared-scarf-collection"
+          }
+        },
+        "featured_collection_QyrYrT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-lace-garment-scarf-international-edition"
+          }
+        },
+        "featured_collection_yXxGxY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-lace-garment-inspired-scarf-set"
+          }
+        },
+        "featured_collection_DkPpd7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-lace-garment-scarf-funk-edition"
+          }
+        },
+        "featured_collection_mDBPR3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-lace-garment-scarf-elevated-edition"
+          }
+        },
+        "featured_collection_TcgHdD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tlg-scarf-definitive-edition"
+          }
+        },
+        "featured_collection_tV3qKM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-lace-garment-scarf-bold-edition"
+          }
+        },
+        "featured_collection_XbPVyz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-lace-garment-supports-palestine"
+          }
+        },
+        "featured_collection_Rckag4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-lace-garment-scarf-collaborations"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_wTU4tp",
+        "featured_collection_YfxVJU",
+        "featured_collection_LAt4FB",
+        "featured_collection_iacGUU",
+        "featured_collection_JzYDJE",
+        "featured_collection_ELxkEi",
+        "featured_collection_QyrYrT",
+        "featured_collection_yXxGxY",
+        "featured_collection_DkPpd7",
+        "featured_collection_mDBPR3",
+        "featured_collection_TcgHdD",
+        "featured_collection_tV3qKM",
+        "featured_collection_XbPVyz",
+        "featured_collection_Rckag4"
+      ],
+      "settings": {
+        "title": "Shop our Inspired Collections and Limited Editions",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collage_RfDLqE": {
+      "type": "collage",
+      "blocks": {
+        "collection_3m3GVe": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-lace-garment-supports-palestine"
+          }
+        },
+        "collection_tJXV3V": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-lace-garment-family-scarf-set"
+          }
+        },
+        "collection_tGfCLT": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-lace-garment-scarf-bold-edition"
+          }
+        }
+      },
+      "block_order": [
+        "collection_3m3GVe",
+        "collection_tJXV3V",
+        "collection_tGfCLT"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collage_zccfb6": {
+      "type": "collage",
+      "blocks": {
+        "collection_W9G4Ap": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-lace-garment-scarf-collaborations"
+          }
+        },
+        "collection_cPaiAw": {
+          "type": "collection",
+          "settings": {
+            "collection": "tlg-scarf-definitive-edition"
+          }
+        },
+        "collection_QCWd9c": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-lace-garment-inspired-scarf-set"
+          }
+        }
+      },
+      "block_order": [
+        "collection_W9G4Ap",
+        "collection_cPaiAw",
+        "collection_QCWd9c"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collage_pW9n9V": {
+      "type": "collage",
+      "blocks": {
+        "collection_HP6GX7": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-lace-garment-scarf-funk-edition"
+          }
+        },
+        "collection_GiVF9k": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-lace-garment-scarf-elevated-edition"
+          }
+        },
+        "collection_YWkHwV": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-lace-garment-scarf-international-edition"
+          }
+        }
+      },
+      "block_order": [
+        "collection_HP6GX7",
+        "collection_GiVF9k",
+        "collection_YWkHwV"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collage_ygc4AR": {
+      "type": "collage",
+      "blocks": {
+        "collection_DGqkP3": {
+          "type": "collection",
+          "settings": {
+            "collection": "parisian-squared-scarf-collection"
+          }
+        },
+        "collection_7Kr9gN": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-lace-garment-retro-scarf-set"
+          }
+        },
+        "collection_RA9itJ": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-lace-garment-scarf-tasty-edition"
+          }
+        }
+      },
+      "block_order": [
+        "collection_DGqkP3",
+        "collection_7Kr9gN",
+        "collection_RA9itJ"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "collection_list_meQp77",
+    "product-grid",
+    "collage_RfDLqE",
+    "collage_zccfb6",
+    "collage_pW9n9V",
+    "collage_ygc4AR"
+  ]
+}
