@@ -83,6 +83,44 @@
         "padding_bottom": 36
       }
     },
+    "collage_J9QKBT": {
+      "type": "collage",
+      "blocks": {
+        "image_rztAfG": {
+          "type": "image",
+          "settings": {
+          }
+        },
+        "product_yWG4Jp": {
+          "type": "product",
+          "settings": {
+            "product": "aura-signature-debut-vera-set",
+            "second_image": true
+          }
+        },
+        "collection_4X4CUy": {
+          "type": "collection",
+          "settings": {
+            "collection": "aura-signature-scarves"
+          }
+        }
+      },
+      "block_order": [
+        "image_rztAfG",
+        "product_yWG4Jp",
+        "collection_4X4CUy"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection_pjXbTQ": {
       "type": "featured-collection",
       "disabled": true,
@@ -184,6 +222,7 @@
     "main",
     "image_banner_RRQW9g",
     "featured_collection_Enb3cN",
+    "collage_J9QKBT",
     "featured_collection_pjXbTQ",
     "collage_6H4aKF",
     "featured_collection_dT6pcD"
