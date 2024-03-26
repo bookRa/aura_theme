@@ -118,30 +118,14 @@
         "padding_bottom": 0
       }
     },
-    "image_banner_JWncXe": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/signature.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
     "image_banner_YT3CqN": {
       "type": "image-banner",
       "blocks": {
         "buttons_KfmgAy": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Connect with me on IG!",
-            "button_link_1": "https:\/\/www.instagram.com\/fatma.sharmy\/",
+            "button_label_1": "Follow us on IG",
+            "button_link_1": "https:\/\/www.instagram.com\/myauraworld\/",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -153,14 +137,12 @@
         "buttons_KfmgAy"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_0468.jpg",
-        "image_2": "shopify:\/\/shop_images\/0b4b6b40-dbb7-4d35-983f-f19bff5d4e0e.jpg",
         "image_overlay_opacity": 20,
         "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-4",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
@@ -181,7 +163,6 @@
     "image_with_text_LnbKQW",
     "image_with_text_xHQQcz",
     "image_with_text_8TbPxz",
-    "image_banner_JWncXe",
     "image_banner_YT3CqN",
     "main"
   ]
