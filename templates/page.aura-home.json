@@ -28,11 +28,11 @@
         "buttons_yTjA4F": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "Shop The Signature Debut Collection",
+            "button_link_1": "shopify:\/\/collections\/aura-signature-scarves",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
+            "button_label_2": "Shop The Streetwear Collection",
+            "button_link_2": "shopify:\/\/collections\/aura-unisex-streetwear-collection",
             "button_style_secondary_2": false
           }
         }
@@ -48,7 +48,7 @@
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "scheme-4",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
