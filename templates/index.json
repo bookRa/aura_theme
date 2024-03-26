@@ -154,32 +154,39 @@
     "collection_list_whfbbn": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_LW6YgK": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
         "featured_collection_x3kjwg": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "the-lace-garment-scarf-mideast-collection"
+          }
+        },
+        "featured_collection_LW6YgK": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-lace-garment-scarf-bold-edition"
+          }
+        },
+        "featured_collection_ckfWYW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-lace-garment-scarf-funk-edition"
           }
         },
         "featured_collection_TB3tVf": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "arabic-inspired-modest-scarf-collection-by-the-lace-garment"
           }
         }
       },
       "block_order": [
-        "featured_collection_LW6YgK",
         "featured_collection_x3kjwg",
+        "featured_collection_LW6YgK",
+        "featured_collection_ckfWYW",
         "featured_collection_TB3tVf"
       ],
       "settings": {
-        "title": "Discover our Unique Print Editions",
+        "title": "Discover our Original Print Collections",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 4,
