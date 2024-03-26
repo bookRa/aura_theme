@@ -111,6 +111,45 @@
         "padding_bottom": 36
       }
     },
+    "collage_6H4aKF": {
+      "type": "collage",
+      "blocks": {
+        "image_Y9WX9m": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/34E9E867-A4DB-4247-A25A-03A293429B2B_dbc005e2-1c7b-49d9-99f9-1e0e3afa0e12.jpg"
+          }
+        },
+        "product_4d7Hjc": {
+          "type": "product",
+          "settings": {
+            "product": "aura-patch-alignment",
+            "second_image": true
+          }
+        },
+        "collection_FRzMnC": {
+          "type": "collection",
+          "settings": {
+            "collection": "aura-unisex-streetwear-collection"
+          }
+        }
+      },
+      "block_order": [
+        "image_Y9WX9m",
+        "product_4d7Hjc",
+        "collection_FRzMnC"
+      ],
+      "settings": {
+        "heading": "Shop the Bundle and get a Free Aura Patch",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "scheme-4",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection_dT6pcD": {
       "type": "featured-collection",
       "settings": {
@@ -145,6 +184,7 @@
     "image_banner_RRQW9g",
     "featured_collection_Enb3cN",
     "featured_collection_pjXbTQ",
+    "collage_6H4aKF",
     "featured_collection_dT6pcD"
   ]
 }
