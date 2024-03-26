@@ -81,15 +81,15 @@
         "text_n8F6Ny"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/calypso_2.jpg",
+        "image": "shopify:\/\/shop_images\/F5650F73-0E3C-4064-9F2C-6A1209D5513C.webp",
         "height": "large",
         "desktop_image_width": "large",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
+        "section_color_scheme": "scheme-4",
+        "color_scheme": "scheme-5",
         "image_behavior": "zoom-in",
         "mobile_content_alignment": "left",
         "padding_top": 0,
