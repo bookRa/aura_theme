@@ -168,6 +168,34 @@
         "padding_bottom": 36
       }
     },
+    "featured_collection_ecjnbW": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop the Full Aura Line",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "the-aura-debut-collection",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-56a2555e-64d2-49b5-bdef-990309d82100",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection_UgDLeX": {
       "type": "featured-collection",
       "settings": {
@@ -218,6 +246,7 @@
   "order": [
     "main",
     "multicolumn",
+    "featured_collection_ecjnbW",
     "featured_collection_UgDLeX",
     "related-products"
   ]
