@@ -205,7 +205,7 @@
         "columns_desktop": 4,
         "color_scheme": "scheme-4",
         "image_ratio": "square",
-        "image_shape": "blob",
+        "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": true,
         "show_rating": false,
