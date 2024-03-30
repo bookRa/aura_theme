@@ -39,28 +39,13 @@
         "padding_bottom": 52
       }
     },
-    "image_banner_3V73cj": {
-      "type": "image-banner",
-      "settings": {
-        "image_2": "shopify:\/\/shop_images\/AuraXTLG.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "slideshow_zUwj7D": {
       "type": "slideshow",
       "blocks": {
         "slide_MihcTd": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/AuraXTLG.webp",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -75,12 +60,12 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_tKPybi": {
+        "slide_f7rAEM": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "heading": "",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
+            "subheading": "",
             "button_label": "Button label",
             "link": "",
             "button_style_secondary": false,
@@ -88,13 +73,32 @@
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_tKPybi": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TropicaCollection.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
             "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
         "slide_MihcTd",
+        "slide_f7rAEM",
         "slide_tKPybi"
       ],
       "settings": {
@@ -299,7 +303,6 @@
   "order": [
     "rich_text",
     "custom_liquid_GPQhpk",
-    "image_banner_3V73cj",
     "slideshow_zUwj7D",
     "collage",
     "featured_collection",
