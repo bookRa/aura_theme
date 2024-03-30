@@ -100,21 +100,9 @@
     },
     "image_with_text_VLi9Jk": {
       "type": "image-with-text",
-      "blocks": {
-        "button_bYdaqW": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop Now",
-            "button_link": "shopify:\/\/collections\/tlg-empowered-coverup-collection",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "button_bYdaqW"
-      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/35D504B4-B74E-4A24-B638-DDD927BC13E5_1270x_f8650116-349f-493b-be52-ea0b6af52664.webp",
+        "image_link": "shopify:\/\/collections\/the-lace-garment-chiffon-coverup-shawl",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
