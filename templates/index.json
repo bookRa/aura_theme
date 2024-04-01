@@ -67,14 +67,14 @@
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
-            "button_label": "Shop Kimonos",
-            "link": "",
+            "button_label": "Summer Kimonos on SALE!",
+            "link": "shopify:\/\/collections\/the-lace-garment-kimono-coverup-collection",
             "button_style_secondary": false,
             "box_align": "bottom-center",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-3",
+            "color_scheme": "scheme-4",
             "text_alignment_mobile": "center"
           }
         },
