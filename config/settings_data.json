@@ -167,7 +167,7 @@
       "scheme-4": {
         "settings": {
           "background": "#45268f",
-          "background_gradient": "linear-gradient(0deg, rgba(242, 166, 38, 0.16) 1.079%, rgba(121, 128, 252, 0) 31%, rgba(142, 128, 252, 0.31) 51%, rgba(167, 134, 252, 0) 72%, rgba(181, 252, 128, 0.68) 92%)",
+          "background_gradient": "linear-gradient(0deg, rgba(242, 166, 38, 0.16) 1.079%, rgba(121, 128, 252, 0) 31%, rgba(142, 128, 252, 0.31) 51%, rgba(167, 134, 252, 0) 72%, rgba(8, 234, 123, 0.6) 98%)",
           "text": "#ffffff",
           "button": "#ffe9ba",
           "button_label": "#121212",
