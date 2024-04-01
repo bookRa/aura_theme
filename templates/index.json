@@ -92,7 +92,7 @@
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-3",
+            "color_scheme": "scheme-4",
             "text_alignment_mobile": "center"
           }
         },
@@ -121,14 +121,14 @@
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
-            "button_label": "Button label",
-            "link": "",
+            "button_label": "Shop TLG Home",
+            "link": "shopify:\/\/collections\/all-tlg-home",
             "button_style_secondary": false,
             "box_align": "bottom-center",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-3",
+            "color_scheme": "scheme-4",
             "text_alignment_mobile": "center"
           }
         }
