@@ -156,9 +156,9 @@
       "scheme-3": {
         "settings": {
           "background": "#fafafa",
-          "background_gradient": "radial-gradient(rgba(204, 240, 69, 0.87), rgba(161, 97, 245, 0) 51%, rgba(118, 39, 221, 0.84) 100%)",
+          "background_gradient": "radial-gradient(rgba(255, 201, 104, 1), rgba(161, 97, 245, 0) 50%, rgba(203, 68, 194, 0.34) 75%, rgba(56, 78, 197, 0.42) 100%)",
           "text": "#ffffff",
-          "button": "#a161f5",
+          "button": "#384ec5",
           "button_label": "#000000",
           "secondary_button_label": "#ffffff",
           "shadow": "#121212"
