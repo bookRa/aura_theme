@@ -179,27 +179,49 @@
         "color_scheme": "scheme-4",
         "image_behavior": "ambient",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
-    "image_with_text_MfPXHH": {
+    "image_with_text_F3q9dd": {
       "type": "image-with-text",
+      "blocks": {
+        "caption_VXqkiP": {
+          "type": "caption",
+          "settings": {
+            "caption": "Shop Handmade Macrame slippers, coasters, wall art, and more!",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "button_YUQMbn": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop The Look",
+            "button_link": "shopify:\/\/collections\/the-lace-garment-chiffon-coverup-shawl",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "caption_VXqkiP",
+        "button_YUQMbn"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/TLG_Home_Collection_233b212e-1126-4fa6-afb7-ff6966f297f3.webp",
         "image_link": "shopify:\/\/collections\/all-tlg-home",
-        "height": "small",
-        "desktop_image_width": "large",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "right",
         "content_layout": "overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-4",
         "image_behavior": "ambient",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 4,
+        "padding_bottom": 8
       }
     },
     "collage": {
@@ -376,7 +398,7 @@
     "custom_liquid_GPQhpk",
     "slideshow_zUwj7D",
     "image_with_text_VLi9Jk",
-    "image_with_text_MfPXHH",
+    "image_with_text_F3q9dd",
     "collage",
     "featured_collection",
     "multicolumn",
