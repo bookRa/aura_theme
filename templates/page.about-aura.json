@@ -14,6 +14,7 @@
       "block_order": [
         "heading_JqmBmg"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Copy_of_IMG_2166.jpg",
         "image_overlay_opacity": 0,
@@ -33,6 +34,7 @@
       "blocks": {
         "text_qA7QNn": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>{{ page.metafields.custom.intro | metafield_tag }}<\/p>",
             "text_style": "body"
@@ -43,16 +45,17 @@
         "text_qA7QNn"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Copy_of_IMG_2129.jpg",
-        "height": "medium",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
+        "image": "shopify:\/\/shop_images\/4340C6AE-9A7B-412B-8757-9C79AF3D25CD.png",
+        "image_link": "",
+        "height": "large",
+        "desktop_image_width": "large",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "section_color_scheme": "scheme-4",
+        "section_color_scheme": "scheme-3",
         "color_scheme": "scheme-56a2555e-64d2-49b5-bdef-990309d82100",
-        "image_behavior": "ambient",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 0
@@ -63,6 +66,7 @@
       "blocks": {
         "text_n8F6Ny": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>{{ page.metafields.custom.body | metafield_tag }}<\/p>",
             "text_style": "body"
@@ -73,19 +77,84 @@
         "text_n8F6Ny"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/F5650F73-0E3C-4064-9F2C-6A1209D5513C.webp",
+        "image": "shopify:\/\/shop_images\/CE29B2DA-AEEF-4ADB-BF6E-263DA8DF1558.png",
+        "image_link": "",
+        "height": "large",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-3",
+        "color_scheme": "scheme-56a2555e-64d2-49b5-bdef-990309d82100",
+        "image_behavior": "zoom-in",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_NRck8P": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_E3TNVC": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>{{ page.metafields.custom.body | metafield_tag }}<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_E3TNVC"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/F0003D32-77F0-4B91-A390-EA580795D9B6.png",
+        "image_link": "",
         "height": "large",
         "desktop_image_width": "large",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "section_color_scheme": "scheme-4",
+        "section_color_scheme": "scheme-3",
         "color_scheme": "scheme-56a2555e-64d2-49b5-bdef-990309d82100",
         "image_behavior": "zoom-in",
         "mobile_content_alignment": "left",
         "padding_top": 0,
-        "padding_bottom": 36
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_fqhddN": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_UCNMVR": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>{{ page.metafields.custom.body | metafield_tag }}<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_UCNMVR"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/F5650F73-0E3C-4064-9F2C-6A1209D5513C.png",
+        "image_link": "",
+        "height": "large",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-3",
+        "color_scheme": "scheme-56a2555e-64d2-49b5-bdef-990309d82100",
+        "image_behavior": "zoom-in",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "image_with_text_8TbPxz": {
@@ -95,7 +164,7 @@
           "type": "text",
           "settings": {
             "text": "<p>{{ page.metafields.custom.outro | metafield_tag }}<\/p>",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         }
       },
@@ -103,15 +172,16 @@
         "text_ndhxwW"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/f918561f-21a3-4579-98e5-32b8b4dd1b9e_1770x_71894838-3cfd-40a4-9fe2-b6009dfa82ed.webp",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
+        "image": "shopify:\/\/shop_images\/IMG_9957.jpg",
+        "image_link": "",
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "desktop_content_position": "bottom",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "section_color_scheme": "scheme-4",
-        "color_scheme": "scheme-56a2555e-64d2-49b5-bdef-990309d82100",
+        "section_color_scheme": "scheme-3",
+        "color_scheme": "scheme-4",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 0,
@@ -137,6 +207,7 @@
         "buttons_KfmgAy"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/TLG_Aura.png",
         "image_overlay_opacity": 20,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -162,6 +233,8 @@
     "image_banner_zEpTfJ",
     "image_with_text_LnbKQW",
     "image_with_text_xHQQcz",
+    "image_with_text_NRck8P",
+    "image_with_text_fqhddN",
     "image_with_text_8TbPxz",
     "image_banner_YT3CqN",
     "main"
