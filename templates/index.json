@@ -50,7 +50,7 @@
             "heading_size": "h1",
             "subheading": "",
             "button_label": "Introducing TLG X Aura!",
-            "link": "shopify:\/\/collections\/all-aura",
+            "link": "shopify:\/\/pages\/aura-unisex-streetwear-boldly-defying-norms-with-every-thread",
             "button_style_secondary": false,
             "box_align": "bottom-right",
             "show_text_box": true,
@@ -244,19 +244,12 @@
           "settings": {
             "collection": "all-scarves"
           }
-        },
-        "featured_collection_6QJHkC": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
         }
       },
       "block_order": [
         "featured_collection_pKHRKU",
         "featured_collection_e8Ff3x",
-        "featured_collection_Y4yBRU",
-        "featured_collection_6QJHkC"
+        "featured_collection_Y4yBRU"
       ],
       "settings": {
         "title": "Collections",
@@ -265,7 +258,7 @@
         "columns_desktop": 3,
         "color_scheme": "",
         "show_view_all": false,
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
