@@ -5,7 +5,7 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
-        "color_scheme": "scheme-4"
+        "color_scheme": "scheme-3"
       }
     },
     "product-grid": {
@@ -13,13 +13,13 @@
       "settings": {
         "products_per_page": 16,
         "columns_desktop": 3,
-        "color_scheme": "scheme-4",
+        "color_scheme": "scheme-56a2555e-64d2-49b5-bdef-990309d82100",
         "image_ratio": "square",
         "image_shape": "blob",
         "show_secondary_image": true,
         "show_vendor": true,
         "show_rating": false,
-        "enable_quick_add": true,
+        "enable_quick_add": false,
         "enable_filtering": true,
         "filter_type": "horizontal",
         "enable_sorting": true,

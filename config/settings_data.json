@@ -157,7 +157,7 @@
         "settings": {
           "background": "#fafafa",
           "background_gradient": "radial-gradient(rgba(255, 201, 104, 1), rgba(161, 97, 245, 0) 50%, rgba(203, 68, 194, 0.34) 75%, rgba(56, 78, 197, 0.42) 100%)",
-          "text": "#ffffff",
+          "text": "#384ec5",
           "button": "#384ec5",
           "button_label": "#ebe6e8",
           "secondary_button_label": "#ffffff",
