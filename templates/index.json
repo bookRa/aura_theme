@@ -170,6 +170,25 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_MfPXHH": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/TLG_Home_Collection_233b212e-1126-4fa6-afb7-ff6966f297f3.webp",
+        "image_link": "shopify:\/\/collections\/all-tlg-home",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collage": {
       "type": "collage",
       "blocks": {
@@ -344,6 +363,7 @@
     "custom_liquid_GPQhpk",
     "slideshow_zUwj7D",
     "image_with_text_VLi9Jk",
+    "image_with_text_MfPXHH",
     "collage",
     "featured_collection",
     "multicolumn",
