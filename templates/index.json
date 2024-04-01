@@ -151,6 +151,25 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "image_with_text_VLi9Jk": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/35D504B4-B74E-4A24-B638-DDD927BC13E5_1270x_f8650116-349f-493b-be52-ea0b6af52664.webp",
+        "image_link": "shopify:\/\/collections\/the-lace-garment-chiffon-coverup-shawl",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collage": {
       "type": "collage",
       "blocks": {
@@ -216,25 +235,6 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_VLi9Jk": {
-      "type": "image-with-text",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/35D504B4-B74E-4A24-B638-DDD927BC13E5_1270x_f8650116-349f-493b-be52-ea0b6af52664.webp",
-        "image_link": "shopify:\/\/collections\/the-lace-garment-chiffon-coverup-shawl",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "ambient",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -343,9 +343,9 @@
     "rich_text",
     "custom_liquid_GPQhpk",
     "slideshow_zUwj7D",
+    "image_with_text_VLi9Jk",
     "collage",
     "featured_collection",
-    "image_with_text_VLi9Jk",
     "multicolumn",
     "collection_list_whfbbn"
   ]
