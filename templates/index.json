@@ -63,17 +63,18 @@
         "slide_f7rAEM": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/kimonos.webp",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
-            "button_label": "Button label",
+            "button_label": "Shop Kimonos",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "bottom-center",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
+            "color_scheme": "scheme-3",
             "text_alignment_mobile": "center"
           }
         },
@@ -87,7 +88,7 @@
             "button_label": "Button label",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "bottom-center",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
