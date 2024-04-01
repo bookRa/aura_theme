@@ -197,7 +197,7 @@
         "button_YUQMbn": {
           "type": "button",
           "settings": {
-            "button_label": "Shop The Look",
+            "button_label": "TLG Home",
             "button_link": "shopify:\/\/collections\/the-lace-garment-chiffon-coverup-shawl",
             "button_style_secondary": false
           }
