@@ -39,8 +39,8 @@
           "settings": {
             "title": "<strong>🚚 International Delivery<\/strong>",
             "text": "<p>Free Shipping for orders over $100<\/p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Shipping and Returns FAQs",
+            "link": "shopify:\/\/pages\/shipping-returns"
           }
         },
         "column2": {
