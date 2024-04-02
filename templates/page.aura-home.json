@@ -14,17 +14,17 @@
         "slide_CqHBpU": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Copy_of_IMG_2129_9d4abdfb-e247-403a-9a73-033f993d3026.jpg",
+            "image": "shopify:\/\/shop_images\/OneAuraForAll.webp",
             "heading": "Introducing Aura",
             "heading_size": "h1",
             "subheading": "Iconoclast - Streetwear",
             "button_label": "Shop The Line",
             "link": "shopify:\/\/collections\/all-aura",
             "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
+            "box_align": "bottom-center",
+            "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 40,
+            "image_overlay_opacity": 0,
             "color_scheme": "scheme-3",
             "text_alignment_mobile": "center"
           }
@@ -46,19 +46,38 @@
             "color_scheme": "scheme-3",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_BqpCrA": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Calypso.webp",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "slide_CqHBpU",
-        "slide_eQpkAT"
+        "slide_eQpkAT",
+        "slide_BqpCrA"
       ],
       "settings": {
-        "layout": "grid",
+        "layout": "full_bleed",
         "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": false,
+        "slider_visual": "dots",
+        "auto_rotate": true,
         "change_slides_speed": 5,
-        "image_behavior": "ambient",
+        "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
