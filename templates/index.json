@@ -47,9 +47,9 @@
           "type": "column",
           "settings": {
             "title": "<em><strong>🎁 HUGE DISCOUNTS<\/strong><\/em>",
-            "text": "<p>Shop our Summer Sale Collection<\/p>",
+            "text": "<p>Shop our Sales Just in Time for Summer<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/sale"
           }
         },
         "column3": {
