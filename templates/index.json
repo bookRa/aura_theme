@@ -21,6 +21,7 @@
         "heading",
         "text"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -30,13 +31,57 @@
         "padding_bottom": 0
       }
     },
-    "custom_liquid_GPQhpk": {
-      "type": "custom-liquid",
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>🚚 International Delivery<\/strong>",
+            "text": "<p>Free Shipping for orders over $100<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "title": "<em><strong>🎁 HUGE DISCOUNTS<\/strong><\/em>",
+            "text": "<p>Shop our Summer Sale Collection<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "title": "<em><strong>🔐 Secure Shopping<\/strong><\/em>",
+            "text": "<p>We Have Thousands of Stellar Reviews<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3"
+      ],
       "settings": {
-        "custom_liquid": "",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-4",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "slideshow_zUwj7D": {
@@ -516,59 +561,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>🚚 International Delivery<\/strong>",
-            "text": "<p>Free Shipping for orders over $100<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "title": "<em><strong>🎁 HUGE DISCOUNTS<\/strong><\/em>",
-            "text": "<p>Shop our Summer Sale Collection<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "title": "<em><strong>🔐 Secure Shopping<\/strong><\/em>",
-            "text": "<p>We Have Thousands of Stellar Reviews<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "collection_list_whfbbn": {
       "type": "collection-list",
       "blocks": {
@@ -619,7 +611,7 @@
   },
   "order": [
     "rich_text",
-    "custom_liquid_GPQhpk",
+    "multicolumn",
     "slideshow_zUwj7D",
     "image_with_text_VLi9Jk",
     "image_with_text_F3q9dd",
@@ -631,7 +623,6 @@
     "featured_collection_rbLPhp",
     "collage",
     "featured_collection",
-    "multicolumn",
     "collection_list_whfbbn"
   ]
 }
