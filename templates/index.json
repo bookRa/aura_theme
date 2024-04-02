@@ -56,9 +56,9 @@
           "type": "column",
           "settings": {
             "title": "<em><strong>🔐 Secure Shopping<\/strong><\/em>",
-            "text": "<p>We Have Thousands of Stellar Reviews<\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p>Thousands of Stellar Reviews<\/p>",
+            "link_label": "Find Us On Instagram!",
+            "link": "https:\/\/www.instagram.com\/tlgfashionstudio\/"
           }
         }
       },
