@@ -264,6 +264,54 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_farPxU": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_iTyRaQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "YOU ARE AMAZING",
+            "heading_size": "h1"
+          }
+        },
+        "text_7HmnAW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Every woman is amazing in her own way. We support you and we encourage you to support your fellow females<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_k9iAPg": {
+          "type": "button",
+          "settings": {
+            "button_label": "Connect With Us on IG",
+            "button_link": "https:\/\/www.instagram.com\/tlgfashionstudio\/",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_iTyRaQ",
+        "text_7HmnAW",
+        "button_k9iAPg"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/AmazingGals.webp",
+        "image_link": "",
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collage": {
       "type": "collage",
       "blocks": {
@@ -440,6 +488,7 @@
     "image_with_text_VLi9Jk",
     "image_with_text_F3q9dd",
     "collection_list_Bw6tFy",
+    "image_with_text_farPxU",
     "collage",
     "featured_collection",
     "multicolumn",
