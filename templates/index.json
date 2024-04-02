@@ -386,15 +386,8 @@
         "heading_DpXrMW": {
           "type": "heading",
           "settings": {
-            "heading": "Amazing Deals",
+            "heading": "Up To 50% OFF SALE!",
             "heading_size": "h1"
-          }
-        },
-        "text_DKaWGa": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
           }
         },
         "buttons_MVQQMw": {
@@ -403,7 +396,7 @@
             "button_label_1": "Find Amazing Deals",
             "button_link_1": "shopify:\/\/collections\/sale",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -411,7 +404,6 @@
       },
       "block_order": [
         "heading_DpXrMW",
-        "text_DKaWGa",
         "buttons_MVQQMw"
       ],
       "settings": {
