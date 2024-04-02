@@ -522,8 +522,8 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "<strong>🚚 International Delivery<\/strong>",
+            "text": "<p>Free Shipping for orders over $100<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -531,8 +531,8 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "<em><strong>🎁 HUGE DISCOUNTS<\/strong><\/em>",
+            "text": "<p>Shop our Summer Sale Collection<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -540,8 +540,8 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "<em><strong>🔐 Secure Shopping<\/strong><\/em>",
+            "text": "<p>We Have Thousands of Stellar Reviews<\/p>",
             "link_label": "",
             "link": ""
           }
