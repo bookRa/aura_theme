@@ -47,8 +47,8 @@
           "type": "column",
           "settings": {
             "title": "<em><strong>🎁 HUGE DISCOUNTS<\/strong><\/em>",
-            "text": "<p>Shop our Sales Just in Time for Summer<\/p>",
-            "link_label": "Shop!",
+            "text": "<p>Just in Time for Summer<\/p>",
+            "link_label": "Shop our Sales!",
             "link": "shopify:\/\/collections\/sale"
           }
         },
