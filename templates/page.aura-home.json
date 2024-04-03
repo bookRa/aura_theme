@@ -111,6 +111,77 @@
         "padding_bottom": 36
       }
     },
+    "featured_product_MBXXXE": {
+      "type": "featured-product",
+      "blocks": {
+        "text_R3jcbq": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_AiJCgM": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_7YLcht": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_mb9Nyk": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_VJy4hY": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_3gkjGB": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_hbq3zG": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_R3jcbq",
+        "title_AiJCgM",
+        "price_7YLcht",
+        "variant_picker_mb9Nyk",
+        "quantity_selector_VJy4hY",
+        "buy_buttons_3gkjGB",
+        "share_hbq3zG"
+      ],
+      "settings": {
+        "product": "ariel-scarf",
+        "color_scheme": "scheme-3",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collage_J9QKBT": {
       "type": "collage",
       "blocks": {
@@ -251,6 +322,7 @@
     "main",
     "slideshow_8BAeUp",
     "featured_collection_Enb3cN",
+    "featured_product_MBXXXE",
     "collage_J9QKBT",
     "featured_collection_pjXbTQ",
     "collage_6H4aKF",
