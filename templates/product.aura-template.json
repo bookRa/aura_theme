@@ -137,6 +137,16 @@
             "link": ""
           }
         },
+        "column_bFUANK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TLG_Aura.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column-1": {
           "type": "column",
           "settings": {
@@ -149,19 +159,20 @@
       },
       "block_order": [
         "column-0",
+        "column_bFUANK",
         "column-1"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
+        "image_width": "third",
+        "image_ratio": "square",
         "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-4",
+        "color_scheme": "scheme-5",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -171,8 +182,8 @@
     "featured_collection_ecjnbW": {
       "type": "featured-collection",
       "settings": {
-        "title": "Shop the Full Aura Line",
-        "heading_size": "h1",
+        "title": "Shop the Aura Debut Collection",
+        "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
@@ -183,7 +194,7 @@
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
-        "color_scheme": "scheme-56a2555e-64d2-49b5-bdef-990309d82100",
+        "color_scheme": "scheme-3",
         "image_ratio": "portrait",
         "image_shape": "default",
         "show_secondary_image": true,
@@ -211,7 +222,7 @@
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": true,
-        "color_scheme": "scheme-4",
+        "color_scheme": "scheme-3",
         "image_ratio": "square",
         "image_shape": "blob",
         "show_secondary_image": true,
@@ -231,15 +242,15 @@
         "heading_size": "h2",
         "products_to_show": 4,
         "columns_desktop": 4,
-        "color_scheme": "scheme-4",
+        "color_scheme": "scheme-5",
         "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": true,
         "show_rating": false,
         "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 28
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     }
   },
