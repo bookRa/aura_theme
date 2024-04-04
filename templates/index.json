@@ -149,7 +149,7 @@
             "heading_size": "h1",
             "subheading": "",
             "button_label": "Shop the Tropica Edition",
-            "link": "shopify:\/\/collections\/the-lace-garment-scarf-funk-edition",
+            "link": "shopify:\/\/collections\/the-lace-garment-scarf-tropica-edition",
             "button_style_secondary": false,
             "box_align": "bottom-center",
             "show_text_box": true,
@@ -579,7 +579,7 @@
         "featured_collection_ckfWYW": {
           "type": "featured_collection",
           "settings": {
-            "collection": "the-lace-garment-scarf-funk-edition"
+            "collection": "the-lace-garment-scarf-tropica-edition"
           }
         },
         "featured_collection_TB3tVf": {
