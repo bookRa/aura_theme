@@ -111,7 +111,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
-        "color_scheme": "",
+        "color_scheme": "scheme-4",
         "media_size": "large",
         "constrain_to_viewport": true,
         "media_fit": "contain",
@@ -123,6 +123,67 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 12
+      }
+    },
+    "collapsible_content_AH7Cyd": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_LNdpWz": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "hello",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "shipping-returns"
+          }
+        },
+        "collapsible_row_p4r4ki": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_Wr4rff": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_rCwUej": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_LNdpWz",
+        "collapsible_row_p4r4ki",
+        "collapsible_row_Wr4rff",
+        "collapsible_row_rCwUej"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "scheme-1",
+        "container_color_scheme": "scheme-4",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn": {
@@ -189,6 +250,7 @@
   },
   "order": [
     "main",
+    "collapsible_content_AH7Cyd",
     "multicolumn",
     "related-products"
   ]
