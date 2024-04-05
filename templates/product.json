@@ -133,8 +133,8 @@
           "settings": {
             "title": "Free Shipping on Orders over $100!",
             "text": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "Learn More",
+            "link": "shopify:\/\/pages\/shipping-returns"
           }
         },
         "column-1": {
@@ -142,8 +142,8 @@
           "settings": {
             "title": "Hassle-Free Exchanges!",
             "text": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "Learn More",
+            "link": "shopify:\/\/pages\/shipping-returns"
           }
         }
       },
