@@ -207,14 +207,14 @@
         "buttons_KfmgAy"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Copy_of_IMG_2233.jpg",
+        "image": "shopify:\/\/shop_images\/Copy_of_IMG_2257.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "top-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-3",
-        "image_behavior": "none",
+        "image_behavior": "zoom-in",
         "mobile_content_alignment": "left",
         "stack_images_on_mobile": false,
         "show_text_below": false
