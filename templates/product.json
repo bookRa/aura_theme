@@ -51,30 +51,21 @@
           "settings": {
           }
         },
-        "collapsible-row-0": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Materials",
-            "icon": "leather",
-            "content": "<p>{{ product.metafields.custom.material | metafield_tag }}<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible-row-1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Shipping & Returns",
-            "icon": "truck",
-            "content": "",
-            "page": "shipping-returns"
-          }
-        },
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
             "heading": "Dimensions",
             "icon": "ruler",
             "content": "{{ product.metafields.custom.dimensions_description | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "collapsible-row-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Materials",
+            "icon": "leather",
+            "content": "<p>{{ product.metafields.custom.material | metafield_tag }}<\/p>",
             "page": ""
           }
         },
@@ -85,6 +76,15 @@
             "icon": "heart",
             "content": "<p>{{ product.metafields.descriptors.care_guide | metafield_tag }}<\/p>",
             "page": ""
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping & Returns",
+            "icon": "truck",
+            "content": "",
+            "page": "shipping-returns"
           }
         },
         "share": {
@@ -103,10 +103,10 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "collapsible-row-0",
-        "collapsible-row-1",
         "collapsible-row-2",
+        "collapsible-row-0",
         "collapsible-row-3",
+        "collapsible-row-1",
         "share"
       ],
       "settings": {

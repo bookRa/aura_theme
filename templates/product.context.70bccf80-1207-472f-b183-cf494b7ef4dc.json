@@ -1,8 +1,0 @@
-{
-  "parent": "product.json",
-  "context": {
-    "market": "70bccf80-1207-472f-b183-cf494b7ef4dc"
-  },
-  "sections": {
-  }
-}
