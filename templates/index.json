@@ -212,7 +212,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop The Look",
-            "button_link": "shopify:\/\/collections\/the-lace-garment-swimsuit-coverups",
+            "button_link": "shopify:\/\/collections\/the-lace-garment-sarong-coverups",
             "button_style_secondary": false
           }
         }
@@ -222,7 +222,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/35D504B4-B74E-4A24-B638-DDD927BC13E5_1270x_f8650116-349f-493b-be52-ea0b6af52664.webp",
-        "image_link": "shopify:\/\/collections\/the-lace-garment-swimsuit-coverups",
+        "image_link": "shopify:\/\/collections\/the-lace-garment-sarong-coverups",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -252,7 +252,7 @@
           "type": "button",
           "settings": {
             "button_label": "TLG Home",
-            "button_link": "shopify:\/\/collections\/the-lace-garment-swimsuit-coverups",
+            "button_link": "shopify:\/\/collections\/the-lace-garment-sarong-coverups",
             "button_style_secondary": false
           }
         }
